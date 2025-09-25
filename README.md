@@ -13,9 +13,9 @@
 
 <img align="right" width=220px alt="Dedsec" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxbTM0aG82YnRuZm9yc2owc2lwb2Y1aHR5aXNtMjA4NzdjOHg1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tM77LKMjQ3MaQAXUA8/giphy.gif"/>
 
-🎓 Junior CS undergrad @ **UT Dallas** (GPA **3.97**, Dean’s List, Academic Success Scholar).  
-👨‍💻 Currently **Student Support Analyst @ UTD OIT**, solving 30+ tech issues daily with a 98% resolution rate.  
-🧠 Experienced **Backend Developer @ ACM UTD**, integrating GPT-4 Turbo into an Android event app for 30K+ students.  
+🎓 Junior CS undergrad @ **UT Dallas**
+👨‍💻 Currently **Student Support Analyst @ UTD OIT**,
+🧠 Experienced **Backend Developer @ ACM UTD**, 
 🔭 Current focus: [**Password Encryption Project**](https://github.com/connordstagliano/SE4389-encryption-app-demo).  
 🌱 Learning: **Docker · Kubernetes · AWS Deployment**.  
 🎨 Fun fact: I worked as a **freelance illustrator**, delivering 150+ artworks across studios and publishers.  
