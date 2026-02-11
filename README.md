@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">Hi there, I'm <a href="https://sifat01.com">Sifat Islam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">Aspiring Software Engineer | Security Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">SDE Co-op (Embedded Linux) @Adtran | Security Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reevu01&label=Profile%20views&color=0e75b6&style=flat" alt="Reevu01" />
