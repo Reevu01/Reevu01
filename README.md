@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">Hi there, I'm <a href="https://sifat01.com">Sifat Islam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">SDE Co-op (Embedded Linux) @Adtran | Security Enthusiast | Full-Stack Developer</h3>
+<h3 align="center"> Software Developer (Full stack) | Security Enthusiast | Embeded Systems Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Reevu01&label=Profile%20views&color=0e75b6&style=flat" alt="Reevu01" />
@@ -14,8 +14,8 @@
 <img align="right" width=220px alt="Dedsec" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxbTM0aG82YnRuZm9yc2owc2lwb2Y1aHR5aXNtMjA4NzdjOHg1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tM77LKMjQ3MaQAXUA8/giphy.gif"/>
 
 🎓 Junior CS undergrad @ **UT Dallas**
-👨‍💻 Currently **Student Support Analyst @ UTD OIT**,
-🧠 Experienced **Backend Developer @ ACM UTD**, 
+👨‍💻 Currently **SDE Co-op (Embedded Linux) @Adtran**,
+🧠 Experienced **Backend Developer @ ACM UTD | Student Support Analyst @ UTD OIT**, 
 🔭 Current focus: [**Password Encryption Project**](https://github.com/connordstagliano/SE4389-encryption-app-demo).  
 🌱 Learning: **Docker · Kubernetes · AWS Deployment**.  
 🎨 Fun fact: I worked as a **freelance illustrator**, delivering 150+ artworks across studios and publishers.  
